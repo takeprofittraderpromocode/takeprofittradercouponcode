@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://takeprofittraderpromocode.github.io/takeprofittradercouponcode/sitemap.xml
